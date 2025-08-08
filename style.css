@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+}
